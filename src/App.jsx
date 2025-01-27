@@ -7,7 +7,7 @@ export default function App() {
     <>
     {/* <Login/> */}
     {/* <EmployeeDashboard/> */}
-     <AdminDashboard/>
+     {/* <AdminDashboard/> */}
     </>
   )
 }
